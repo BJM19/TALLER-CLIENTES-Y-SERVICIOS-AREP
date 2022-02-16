@@ -1,4 +1,4 @@
-package edu.escuelaing.AREP.LeerUrl;
+package LeerUrl;
 
 import java.net.MalformedURLException;
 import java.net.URL;

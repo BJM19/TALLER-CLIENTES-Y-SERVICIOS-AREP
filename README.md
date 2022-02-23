@@ -1,4 +1,4 @@
-# TALLER NETWORKING
+# TALLER CLIENTES Y SERVICIOS
 ## Empezando
 
 Las instrucciones que encontrara a continuación le proporcionaran una copia del programa en funcionamiento en su máquina local.
